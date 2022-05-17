@@ -20,14 +20,13 @@
       mycanva.parent('animation');
     }
 
+    var color = ['yellow','green','blue','red','orange','purple','pink','brown','black','white'];
+
     function draw() {
-      if (mouseIsPressed) {
-        fill(12,12,12);
-      } else {
-        fill(255);
-      }
       point(mouseX, mouseY);
       strokeWeight(10);
+      // stroke(random(color));
+      stroke('yellow');
     }
   </script>
 </body>

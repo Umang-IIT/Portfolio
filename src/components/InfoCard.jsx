@@ -3,7 +3,6 @@ import Fb from '../logo/facebook-brands.svg';
 import Linkedin from '../logo/linkedin-brands.svg';
 import Instagram from '../logo/instagram-brands.svg';
 import Codeforces from '../logo/codeforces-svgrepo-com.svg';
-import { Code } from '@mui/icons-material';
 
 const InfoCard = () => {
   return (
