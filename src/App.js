@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar />
       <div className='main'>
-        <InfoCard />
+        <InfoCard name = "Umang Singla" />
       </div>
     </div>
   );

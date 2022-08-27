@@ -68,10 +68,14 @@ nav{
 }
 
 .icons{
+  padding-top: 2vw;
   display: flex;
   list-style: none;
   width: inherit;
   justify-content: space-evenly;
+}
+.icon{
+  font-size: 1.4em;
 }
 
 .logo{
