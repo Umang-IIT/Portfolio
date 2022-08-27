@@ -10,11 +10,11 @@ const InfoCard = () => {
       <div className="name">Umang Singla</div>
       <div className="title">Full Stack Developer</div>
       <ul className="icons">
-          <li><a href='https://github.com/umang-singla'><img className='logo' src={Github} /></a></li>
-          <li><a href='https://www.facebook.com/singlaumang'><img className='logo' src={Fb} /></a></li>
-          <li><a href='https://www.instagram.com/umang__singla/'><img className='logo' src={Instagram} /></a></li>
-          <li><a href='https://www.linkedin.com/in/umang-singla/'><img className='logo' src={Linkedin} /></a></li>
-          <li><a href='https://codeforces.com/profile/umangsingla617'><img className='logo' src={Codeforces} /></a></li>
+          <li><a href='https://github.com/umang-singla'><i class="fa-brands fa-github"></i></a></li>
+          <li><a href='https://www.facebook.com/singlaumang/'><i class="fa-brands fa-facebook"></i></a></li>
+          <li><a href='https://www.instagram.com/umang__singla/'><i class="fa-brands fa-instagram"></i></a></li>
+          <li><a href='https://www.linkedin.com/in/umang-singla/'><i class="fa-brands fa-linkedin"></i></a></li>
+          <li><a href='https://codeforces.com/profile/umangsingla617'><i class="fa-solid fa-chart-simple fa-flip-horizontal"></i></a></li>
       </ul>
     </div>
   );
