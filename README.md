@@ -1,3 +1,3 @@
 # Portfolio Website
 
-This app is hosted on `https://portfolio-umang-iit.herokuapp.com/`
+This app is hosted on `https://portfolio-umang-singla.herokuapp.com/`
